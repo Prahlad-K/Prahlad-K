@@ -11,7 +11,7 @@ After my twelth standard, it came to me naturally to choose Computer Science as 
 
 ![](https://sec.report/Document/0001403161-20-000019/image0a24.jpg)
 
-I had the opportunity to intern at the Bengaluru office of the leading digital payments technology company, Visa. I worked on developing Customer Relationship Management (CRM) applications from scratch. Based on my work here, I was offered a full time role as a Software Engineer. I eventually graduated first class with distinction - among the top 5 students in my department. On my GitHub, my fellow explorer, you'd find relics of my work during undergrad. Multiple academic and personal projects, hackathon ventures, competitive programming interests, and a bit of random interesting stuff. It's a work in progress, but I strive to document each and every one of my repos one day!
+I had the opportunity to intern at the Bengaluru office of the leading digital payments technology company, Visa. I worked on developing Customer Relationship Management (CRM) applications from scratch. Based on my work here, I was offered a full time role as a Software Engineer. I eventually graduated first class with distinction - among the top 5 students in my department. On my GitHub, dear fellow explorer, you'd find relics of my work during undergrad. Multiple academic and personal projects, hackathon ventures, competitive programming interests, and a bit of random interesting stuff. It's a work in progress, but I strive to document each and every one of my repos one day!
 
 Thanks for the read, I'm always open for collaboration!
 
