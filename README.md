@@ -1,11 +1,11 @@
-## Hi there! Welcome to my GitHub :)
+# Hi there! Welcome to my GitHub :)
 
-# About Me
+## Who am I?
 I am a Software Developer at Visa Inc., currently in the CRM space working with solutions offered by Salesforce and Microsoft Dynamics 365. I graduated in 2020 from NIT Warangal with a Bachelors degree in Computer Science and Engineering, first class with distinction. My skills include solving problems using C, C++, Java, Python, C# (.NET, basics), Apex. I can also develop web/console applications for desktop and mobile using HTML, CSS, Javascript, Bootstrap, Flutter, Lightning (Salesforce). 
 
 I have a special interest in topics related to Machine Learning, and worked on projects broadly covering its applications in finance and healthcare. With this, my research efforts led one of my first-authored papers to receive the Best Paper award at the ACM Joint International Conference on Data Science and Management of Data (CODS COMAD) 2021, and the other to receive an acceptance for publication from Engineering Science and Technology, an International Journal by Elsevier.
 
-# My Story
+## Tell me more!
 What got me hooked to computers and coding was the fact that if you tell a computer what to do (in the right way, of course!), it follows literally *every single instruction, meticulously*. Essentially, you're having this incredibly fast and complicated machine waiting to take orders from you, ready to do whatever you want it to do. That to me is absolutely amazing because it has the potential to become an enabler for better human lives.
 
 I was introduced to computers when I was around 10 years old. Here's how one looked like back then - I think we had a Zenith monitor!
