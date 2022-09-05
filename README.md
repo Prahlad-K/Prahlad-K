@@ -1,13 +1,11 @@
 # Hi there! Welcome to my GitHub :)
 
 ## Who am I?
-I am a Software Developer at Visa Inc., currently in the CRM space working with solutions offered by Salesforce and Microsoft Dynamics 365. I graduated in 2020 from NIT Warangal with a Bachelors degree in Computer Science and Engineering, first class with distinction. My skills include solving problems using C, C++, Java, Python, C# (.NET, basics), Apex. I can also develop web/console applications for desktop and mobile using HTML, CSS, Javascript, Bootstrap, Flutter, Lightning (Salesforce). 
+I have ~2 years of Software Engineering experience at Visa Inc., where I addressed several Customer Relationship Management (CRM) requirements. I graduated in 2020 from NIT Warangal with a bachelor's degree in Computer Science and Engineering, first class with distinction. My skills include solving problems using C, C++, Java, Python, C#.NET, and Apex. I also have experience developing multiple web/console applications for desktop and mobile using HTML, CSS, JavaScript, Bootstrap, Flutter, Django, and the Lightning Framework (Salesforce).
 
-I have a special interest in topics related to Machine Learning, and worked on projects broadly covering its applications in finance and healthcare. With this, my research efforts led one of my first-authored papers to receive the Best Paper award at the ACM Joint International Conference on Data Science and Management of Data (CODS COMAD) 2021, and the other to receive an acceptance for publication from Engineering Science and Technology, an International Journal by Elsevier.
+I have a special interest in topics related to Machine Learning and worked on projects broadly covering its applications in finance and healthcare. With this, my research efforts led one of my first-authored papers to receive the Best Paper award at the ACM Joint International Conference on Data Science and Management of Data (CODS COMAD) 2021, and another to receive an acceptance for publication from Engineering Science and Technology, an International Journal by Elsevier.
 
-Going forward, I look to improve my expertise on CRM systems, contribute to open source, participate in hackathons, research more on interesting topics in machine learning, and hopefully be of impact by solving problems.
-
-I'm always open for collaboration!
+Going forward, I look to improve my expertise on CRM systems, contribute to open source, participate in hackathons, research more on interesting topics in machine learning, and hopefully be of impact by solving problems!
 <!--
 **Prahlad-K/Prahlad-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
