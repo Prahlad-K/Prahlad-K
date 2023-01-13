@@ -1,4 +1,4 @@
-# Hi! Welcome to my GitHub :)
+# Hi! Welcome to my GitHub.
 
 ## About Me:
 - 🔭 I’m currently working on ... Columbia University coursework, Full-time Software Engineering/Quantitative Analysis/Machine Learning Opportunities.
