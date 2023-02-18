@@ -7,7 +7,6 @@
 - 💬 Ask me about ... Natural Language Processing, Software Engineering, Customer Relationship Management
 - 📫 How to reach me: ... Drop me a ping on LinkedIn: https://www.linkedin.com/in/prahlad-koratamaddi/
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I recently won a prize at Columbia University's Data Science Hackathon, for generating privacy-enabled synthetic data.
 
 ## Skills: 
 1) Solving problems using C/C++, Java, Python, C#.NET, SQL, Apex.
