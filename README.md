@@ -2,7 +2,7 @@
 
 ## About Me:
 - 🔭 I’m currently working on ... Columbia University coursework, Summer 2023 Software Engineering/Quantitative Analysis/Machine Learning Internships.
-- 🌱 I’m currently learning ... Applied Machine Learning, Speech Recognition and Spoken Language Processing, Natural Language Processing  
+- 🌱 I’m currently learning ... Applied Machine Learning, Spoken Language Processing, Cloud Computing and Big Data  
 - 👯 I’m looking to collaborate on ... Any projects that solve real-world, challenging problems using Computer Science.
 - 💬 Ask me about ... Natural Language Processing, Speech Recognition and Analysis, Software Engineering, Customer Relationship Management
 - 📫 How to reach me: ... Drop me a ping on LinkedIn: https://www.linkedin.com/in/prahlad-koratamaddi/
