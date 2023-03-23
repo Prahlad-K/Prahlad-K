@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... Applied Machine Learning, Spoken Language Processing, Cloud Computing and Big Data  
 - 👯 I’m looking to collaborate on ... Any projects that solve real-world, challenging problems using Computer Science.
 - 💬 Ask me about ... Natural Language Processing, Speech Recognition and Analysis, Software Engineering, Customer Relationship Management
-- 📫 How to reach me: ... Drop me a ping on LinkedIn: https://www.linkedin.com/in/prahlad-koratamaddi/
+- 📫 How to reach me: ... LinkedIn: https://www.linkedin.com/in/prahlad-koratamaddi/
 - 😄 Pronouns: ... He/Him
 
 ## Skills: 
@@ -23,7 +23,11 @@
 I have ~2 years of Software Engineering experience at Visa Inc., where I received multiple **Gold "Above and Beyond" awards** for demonstrating leadership principles and delivering on several Customer Relationship Management (CRM) requirements. I currently pursue a Master of Science in Computer Science at Columbia University in the City of New York, specializing in Natural Language Processing. I graduated in 2020 from NIT Warangal with a bachelor's degree in CS, completing my studies on full scholarship and achieving distinction. 
 
 ## Research and Projects: 
-My society-centric projects on Machine Learning broadly cover its applications in finance and healthcare, including depression diagnosis and stock portfolio allocation. These endeavors led one of my first-authored papers to receive the **Best Paper** award at the ACM Joint International Conference on Data Science and Management of Data (CODS COMAD) 2021, and another to receive an acceptance for publication from Engineering Science and Technology, an International Journal by Elsevier.
+My society-centric projects on Machine Learning broadly cover its applications in finance and healthcare, including depression diagnosis and stock portfolio allocation. These endeavors led one of my first-authored papers to receive the **Best Paper Award** at the ACM Joint International Conference on Data Science and Management of Data (CODS COMAD) 2021, and another to receive an acceptance for publication from Engineering Science and Technology, an International Journal by Elsevier. I also surveyed the effects of large language models in Speech Recognition as part of Columbia's Fundamentals of Speech Recognition.
+
+## Links to my publications: 
+1) Market Sentiment-Aware Deep Reinforcement Learning Approach for Stock Portfolio Allocation: https://www.sciencedirect.com/science/article/pii/S2215098621000070
+2) A Multi-Agent Reinforcement Learning Approach for Stock Portfolio Allocation: https://dl.acm.org/doi/abs/10.1145/3430984.3431045
 
 <!--
 **Prahlad-K/Prahlad-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
