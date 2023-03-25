@@ -25,7 +25,7 @@ I have ~2 years of Software Engineering experience at Visa Inc., where I receive
 ## Research and Projects: 
 My society-centric projects on Machine Learning broadly cover its applications in finance and healthcare, including depression diagnosis and stock portfolio allocation. These endeavors led one of my first-authored papers to receive the **Best Paper Award** at the ACM Joint International Conference on Data Science and Management of Data (CODS COMAD) 2021, and another to receive an acceptance for publication from Engineering Science and Technology, an International Journal by Elsevier. I also surveyed the effects of large language models in Speech Recognition as part of Columbia's Fundamentals of Speech Recognition.
 
-## Links to my publications: 
+## Links to my Publications: 
 1) Market Sentiment-Aware Deep Reinforcement Learning Approach for Stock Portfolio Allocation: https://www.sciencedirect.com/science/article/pii/S2215098621000070
 2) A Multi-Agent Reinforcement Learning Approach for Stock Portfolio Allocation: https://dl.acm.org/doi/abs/10.1145/3430984.3431045
 
