@@ -17,7 +17,8 @@
 6) Managing data stored in PostgreSQL, MySQL, Oracle RDBMS, Microsoft SQL Server, and Azure Cosmos DB, Amazon Web Services (AWS) S3, DynamoDB.
 7) Following CI/CD, Agile, and version control methodologies using Jenkins, JIRA, and Git/BitBucket.
 8) Scaling applications on Azure, AWS, and Google Cloud. I'm also familiar with Linux Shell programming.
-9) Working with Swagger, YAML, REST, and SOAP APIs.
+9) Working with Swagger, YAML, JSON, REST, and SOAP APIs.
+10) Building financial analysis models and intelligent autonomous agents, particularly for the stock market.
 
 ## Experience and Education: 
 I have ~2 years of Software Engineering experience at Visa Inc., where I received multiple **Gold "Above and Beyond" awards** for demonstrating leadership principles and delivering on several Customer Relationship Management (CRM) requirements. I currently pursue a Master of Science in Computer Science at Columbia University in the City of New York, specializing in Natural Language Processing. I graduated in 2020 from NIT Warangal with a bachelor's degree in CS, completing my studies on full scholarship and achieving distinction. 
