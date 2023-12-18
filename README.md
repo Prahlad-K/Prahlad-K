@@ -2,9 +2,9 @@
 
 ## About Me:
 - 🔭 I’m currently working on ... Columbia University coursework, Full-time Software Engineering/Quantitative Analysis/Machine Learning Opportunities.
-- 🌱 I’m currently learning ... Applied Machine Learning, Spoken Language Processing, Cloud Computing and Big Data  
+- 🌱 I’m currently learning ... Financing and Structuring for Data Science, Natural Language Generation and Summarization 
 - 👯 I’m looking to collaborate on ... Any projects that solve real-world, challenging problems using Computer Science.
-- 💬 Ask me about ... Natural Language Processing, Speech Recognition and Analysis, Software Engineering, Customer Relationship Management
+- 💬 Ask me about ... Natural Language Processing, Software Engineering, Financial Modeling, Data Science, Customer Relationship Management
 - 📫 How to reach me: ... LinkedIn: https://www.linkedin.com/in/prahlad-koratamaddi/
 - 😄 Pronouns: ... He/Him
 
