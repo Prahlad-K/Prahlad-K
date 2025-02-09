@@ -1,7 +1,7 @@
 # Hi! Welcome to my GitHub.
 
 ## About Me:
-- 🔭 I’m currently working on ... Columbia University coursework, Full-time Software Engineering/Quantitative Analysis/Machine Learning Opportunities.
+- 🔭 I’m currently working on ... Improving trader workflows, generating revenue or saving costs for Barclays Investment Bank as a Quant
 - 🌱 I’m currently learning ... Financing and Structuring for Data Science, Natural Language Generation and Summarization 
 - 👯 I’m looking to collaborate on ... Any projects that solve real-world, challenging problems using Computer Science.
 - 💬 Ask me about ... Natural Language Processing, Software Engineering, Financial Modeling, Data Science, Customer Relationship Management
