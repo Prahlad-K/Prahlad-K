@@ -30,6 +30,9 @@ My society-centric projects on Machine Learning broadly cover its applications i
 1) Market Sentiment-Aware Deep Reinforcement Learning Approach for Stock Portfolio Allocation: https://www.sciencedirect.com/science/article/pii/S2215098621000070
 2) A Multi-Agent Reinforcement Learning Approach for Stock Portfolio Allocation: https://dl.acm.org/doi/abs/10.1145/3430984.3431045
 
+## My GitHub Stats
+[![Prahlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Prahlad-K/Prahlad-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
